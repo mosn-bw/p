@@ -30,10 +30,10 @@ print("\nBY: SELFBOT-BY:MAX\n")
 
 poll = LinePoll(kifli)
 call = kifli
-creator = ["u954d9f74bc255dad64dc89bf1601469c"]
-owner = ["u954d9f74bc255dad64dc89bf1601469c"]
-admin = ["u954d9f74bc255dad64dc89bf1601469c"]
-staff = ["u954d9f74bc255dad64dc89bf1601469c"]
+creator  = [ "u30c2712c8e6129e59aaef4c2710d63e1" ]
+مالک  = [ "u30c2712c8e6129e59aaef4c2710d63e1" ]
+admin  = [ "u30c2712c8e6129e59aaef4c2710d63e1" ]
+کارکنان  = [ "u30c2712c8e6129e59aaef4c2710d63e1" ]
 lineProfile = kifli.getProfile()
 mid = kifli.getProfile().mid
 KAC = [kifli]
